@@ -25,3 +25,7 @@ https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly
 https://github.com/devravinder/learn-docker-k8/tree/master
 typescript documentory:
 https://www.youtube.com/watch?v=U6s2pdxebSo
+micro-frontends:
+https://webpack.js.org/concepts/module-federation/
+https://single-spa.js.org/
+https://developer.mozilla.org/en-US/docs/Web/API/Web_components
