@@ -29,3 +29,26 @@ micro-frontends:
 https://webpack.js.org/concepts/module-federation/
 https://single-spa.js.org/
 https://developer.mozilla.org/en-US/docs/Web/API/Web_components
+
+25-06-2026
+---
+https://app.eraser.io/
+https://github.com/trending?utm_source=chatgpt.com
+https://thenewstack.io/?utm_source=chatgpt.com
+https://news.ycombinator.com/?utm_source=chatgpt.com
+https://techcrunch.com/?utm_source=chatgpt.com
+
+https://www.reddit.com/r/programming?utm_source=chatgpt.com
+https://www.reddit.com/r/webdev?utm_source=chatgpt.com
+https://www.reddit.com/r/java?utm_source=chatgpt.com
+https://www.reddit.com/r/devops?utm_source=chatgpt.com
+
+https://kiro.dev/
+
+Framework Release Tracking
+---
+https://github.com/trending?utm_source=chatgpt.com
+https://github.com/explore?utm_source=chatgpt.com
+https://npmtrends.com/?utm_source=chatgpt.com
+
+
