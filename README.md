@@ -53,26 +53,29 @@ https://npmtrends.com/
 
 26-06-2026
 ---
-https://youtu.be/_PPWWRV6gbA?si=cWRIAcMFKwIa-fEx  
-npx ng version
-npx ng update
- npx ng update @angular/core@21 @angular/cli@21 --allow-dirty
- npm run build
- ng update @angular/core @angular/cli
- npm uninstall -g @angular/cli
- npm install -g @angular/cli@latest
-  npm info @zxing/ngx-scanner version
-npm info @zxing/ngx-scanner@21.0.0 peerDependencies
-npm info @zxing/ngx-scanner dist-tags
- npm info @ngx-translate/core version; npm info @ngx-translate/http-loader version
-npm info @ngx-translate/core@18.0.0 peerDependencies; npm info @ngx-translate/http-loader@18.0.0 peerDependencies
-npx ng update @angular/core @angular/cli --force
-git diff src/app/shop/shop.component.ts
-git stash
-npx ng update @angular/core @angular/cli --force
-git stash pop
-npx ng test --no-watch --no-progress
-git diff origin/master --name-status
-git diff package.json
-git add .; git commit -m "Upgrade Angular to v22 and fix unit tests"
+https://youtu.be/_PPWWRV6gbA?si=cWRIAcMFKwIa-fEx    
+npx ng version  
+npx ng update  
+ npx ng update @angular/core@21 @angular/cli@21 --allow-dirty  
+ npm run build  
+ ng update @angular/core @angular/cli  
+ npm uninstall -g @angular/cli  
+ npm install -g @angular/cli@latest  
+  npm info @zxing/ngx-scanner version  
+npm info @zxing/ngx-scanner@21.0.0 peerDependencies  
+npm info @zxing/ngx-scanner dist-tags  
+ npm info @ngx-translate/core version; npm info @ngx-translate/http-loader version  
+npm info @ngx-translate/core@18.0.0 peerDependencies; npm info @ngx-translate/http-loader@18.0.0 peerDependencies  
+npx ng update @angular/core @angular/cli --force  
+git diff src/app/shop/shop.component.ts  
+git stash  
+npx ng update @angular/core @angular/cli --force  
+git stash pop  
+npx ng test --no-watch --no-progress  
+git diff origin/master --name-status  
+git diff package.json  
+git add .; git commit -m "Upgrade Angular to v22 and fix unit tests"  
+
+Resolving permissions issue  
+deploying with docker vs manual install difference  
 
