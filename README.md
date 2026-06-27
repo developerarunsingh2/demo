@@ -79,3 +79,12 @@ git add .; git commit -m "Upgrade Angular to v22 and fix unit tests"
 Resolving permissions issue  
 deploying with docker vs manual install difference  
 
+27-06-2026
+---
+anti gravity command: agy  
+shell ssh tunneling
+bit locker
+https://chatgpt.com/c/6a3f809b-5494-83ee-9ad8-a621524bea16
+
+
+
