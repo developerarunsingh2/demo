@@ -86,5 +86,7 @@ shell ssh tunneling
 bit locker
 https://chatgpt.com/c/6a3f809b-5494-83ee-9ad8-a621524bea16
 
-
-
+28-06-26
+---
+search service features:  
+https://chatgpt.com/c/6a3f809b-5494-83ee-9ad8-a621524bea16
