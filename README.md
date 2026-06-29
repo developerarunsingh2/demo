@@ -86,7 +86,20 @@ shell ssh tunneling
 bit locker
 https://chatgpt.com/c/6a3f809b-5494-83ee-9ad8-a621524bea16
 
-28-06-26
+28-06-2026
 ---
 search service features:  
 https://chatgpt.com/c/6a3f809b-5494-83ee-9ad8-a621524bea16
+
+30-06-2026
+---
+https://docs.github.com/en/actions/get-started/quickstart
+https://github.com/actions/starter-workflows
+https://docs.github.com/en/actions/concepts/workflows-and-actions/workflows#understanding-the-workflow-file
+https://docs.github.com/en/actions/reference/workflows-and-actions/contexts
+https://docs.github.com/en/actions/get-started/understand-github-actions
+https://docs.github.com/en/actions/how-tos/write-workflows
+https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
+https://github.com/github/roadmap
+https://github.com/orgs/github/projects/4247
+
