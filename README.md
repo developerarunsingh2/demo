@@ -103,3 +103,9 @@ https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
 https://github.com/github/roadmap
 https://github.com/orgs/github/projects/4247
 
+05-07-2026
+--
+agents in AI, visual studio
+elastic search document in springboot application
+
+
