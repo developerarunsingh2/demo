@@ -108,4 +108,9 @@ https://github.com/orgs/github/projects/4247
 agents in AI, visual studio
 elastic search document in springboot application
 
+09-07-2026
+--
+Great plugins in visual studio: Architex, 
+
+
 
