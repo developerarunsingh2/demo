@@ -110,7 +110,15 @@ elastic search document in springboot application
 
 09-07-2026
 --
-Great plugins in visual studio: Architex, 
+Great plugins in visual studio: Architex  
+
+11-07-20226
+--
+gcloud, and its commands  
+design patterns  
+docker and its commands  
+
+
 
 
 
