@@ -117,9 +117,7 @@ Great plugins in visual studio: Architex
 gcloud, and its commands  
 design patterns  
 docker and its commands  
-gcloud builds submit --tag gcr.io/hnt-horticulture/api-gateway:latest api-gateway/  
-   gcloud run deploy api-gateway --image gcr.io/hnt-horticulture/api-gateway:latest --platform managed --region asia-south1 --port 8080 --allow-unauthenticated --memory 512Mi  
---cpu 1 --max-instances 10 --quiet  
+
  gcloud logging read "resource.type=cloud_run_revision AND resource.labels.service_name=api-gateway AND resource.labels.revision_name=api-gateway-00010-zrr" --limit 50  
  mvn dependency:tree -pl api-gateway  
  mvn clean package -pl api-gateway -DskipTests   
