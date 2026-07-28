@@ -123,7 +123,16 @@ docker and its commands
  mvn clean package -pl api-gateway -DskipTests   
  gcloud run services list --platform managed --region asia-south1  
  mvn dependency:tree -pl services/order-service | Select-String "config"  
- 
+
+ 28-07-26
+ --
+ copilot microsoft learn( simple bhasa me)
+  netstat -ano | findstr "808 8761 8888"
+  mvn package -DskipTests -pl config-server
+   git diff auth-service/pom.xml pom.xml  
+   git log -n 5 --stat
+   npx tsc no --emit
+   git commit -am "docs: update E2E_TEST_SUMMARY.md with latest test execution and refactoring metrics"
     
 
 
