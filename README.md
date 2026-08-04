@@ -133,6 +133,13 @@ docker and its commands
    git log -n 5 --stat
    npx tsc no --emit
    git commit -am "docs: update E2E_TEST_SUMMARY.md with latest test execution and refactoring metrics"
+
+04-08-2026
+--
+MCP Intro: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro  
+MCP Architecture: https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture  
+MCP Github Repo: https://github.com/modelcontextprotocol/servers  
+
     
 
 
