@@ -140,6 +140,19 @@ MCP Intro: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
 MCP Architecture: https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture  
 MCP Github Repo: https://github.com/modelcontextprotocol/servers  
 
+07-08-2026
+--
+postgres db connection,
+Kafka key parameters in properties file,
+Opentelemetry and other observability tools ,
+version upgrade and tokenization
+how to use AI efficiently(linkedin post)
+MVP integration in github copilot, copilot with and without it
+Kafka stop and on if some resources or services are down
+
+
+
+
     
 
 
