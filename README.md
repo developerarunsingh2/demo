@@ -142,13 +142,24 @@ MCP Github Repo: https://github.com/modelcontextprotocol/servers
 
 07-08-2026
 --
-postgres db connection,
-Kafka key parameters in properties file,
-Opentelemetry and other observability tools ,
-version upgrade and tokenization
-how to use AI efficiently(linkedin post)
-MVP integration in github copilot, copilot with and without it
-Kafka stop and on if some resources or services are down
+postgres db connection,  
+Kafka key parameters in properties file,  
+Opentelemetry and other observability tools ,  
+version upgrade and tokenization  
+how to use AI efficiently(linkedin post)  
+MVP integration in github copilot, copilot with and without it  
+Kafka stop and on if some resources or services are down  
+
+10-08-2026
+--
+Microsoft Dynamics 365,
+Github stash, cherry pick, 
+Github dependency freshness,
+Overwrite opensource tool,
+team connect(matters),
+gradle compatibility guide(with java),
+zuul java, which to choose and when,
+
 
 
 
