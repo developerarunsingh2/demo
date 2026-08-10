@@ -152,13 +152,13 @@ Kafka stop and on if some resources or services are down
 
 10-08-2026
 --
-Microsoft Dynamics 365,
-Github stash, cherry pick, 
-Github dependency freshness,
-Overwrite opensource tool,
-team connect(matters),
-gradle compatibility guide(with java),
-zuul java, which to choose and when,
+Microsoft Dynamics 365,  
+Github stash, cherry pick,   
+Github dependency freshness,  
+Overwrite opensource tool,  
+team connect(matters),  
+gradle compatibility guide(with java),  
+zuul java, which to choose and when,  
 
 
 
