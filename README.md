@@ -160,7 +160,16 @@ team connect(matters),
 gradle compatibility guide(with java),  
 zuul java, which to choose and when,  
 
-
+14-08-2026  
+--
+Hibernate entity naming convention startegies
+linux suu, lrth, cat , ssh commands
+ACC setup, Recipy setup,
+springboot 3 to springboot 4 upgrade.
+Json conversion in Kafka process(why and when and its benefits)
+Mitratech team connect 
+copilot agents
+splunk, 
 
 
 
