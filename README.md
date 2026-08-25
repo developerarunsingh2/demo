@@ -171,6 +171,15 @@ Mitratech team connect
 copilot agents
 splunk, 
 
+24-08-2026
+--
+ git log --left-right --graph --cherry-pick --oneline origin/master...HEAD
+ git merge-tree $(git merge-base HEAD origin/master) HEAD origin/master
+
+ 25-08-2026
+ --
+google SEO optimization complete guide
+
 
 
     
