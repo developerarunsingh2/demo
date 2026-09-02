@@ -180,6 +180,15 @@ splunk,
  --
 google SEO optimization complete guide
 
+02-09-2026
+--
+readme update markdown,  
+squash merge and other merge type for PR,  
+azure storage,  
+terrafarm,  
+c# plugin,  
+d365
+
 
 
     
