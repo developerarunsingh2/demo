@@ -189,6 +189,15 @@ terrafarm,
 c# plugin,  
 d365
 
+03-09-2026
+--
+Terafarm deployment and workflow process
+Ui ai plugins, like for figma, UI/UX design
+better presentation
+in azure blob storage vs general v2 storage
+resource group
+
+
 
 
     
