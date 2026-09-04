@@ -197,6 +197,11 @@ better presentation
 in azure blob storage vs general v2 storage
 resource group
 
+04-09-2026
+--
+github terraform workflow  
+permissions in azure
+sales  
 
 
 
