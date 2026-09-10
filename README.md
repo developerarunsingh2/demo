@@ -203,6 +203,17 @@ github terraform workflow
 permissions in azure
 sales  
 
+10-09-2026
+--
+Dependabot
+Confluence
+Rovo
+Docker entrypoint
+data factory(terraform)
+promotional deployment
+acc agent
+
+
 
 
     
