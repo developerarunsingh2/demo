@@ -213,6 +213,12 @@ data factory(terraform)
 promotional deployment
 acc agent
 
+02-10-26
+--
+canva pro
+azure sql database,
+
+
 
 
 
