@@ -218,8 +218,9 @@ acc agent
 canva pro
 azure sql database,
 
-
-
+06-10-26
+--
+liquibase, train based deployment, tar,dbartisan, view, 
 
 
     
