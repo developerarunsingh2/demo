@@ -222,7 +222,9 @@ azure sql database,
 --
 liquibase, train based deployment, tar,dbartisan, view, 
 
-
+08-10-26
+--
+frontier findings, datasync(db2 to azsql), 
     
 
 
