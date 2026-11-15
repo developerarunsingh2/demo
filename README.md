@@ -225,7 +225,10 @@ liquibase, train based deployment, tar,dbartisan, view,
 08-10-26
 --
 frontier findings, datasync(db2 to azsql), 
-    
+
+15-11-26
+--
+batch-app.sh, path changes, team connect, testing, 
 
 
 
