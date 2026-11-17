@@ -230,6 +230,10 @@ frontier findings, datasync(db2 to azsql),
 --
 batch-app.sh, path changes, team connect, testing, 
 
+16-11-26
+--
+SHA, Grant, @prod, TAM, 
+
 
 
 
